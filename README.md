@@ -37,3 +37,14 @@ Comparaison des performances des modèles avec RMSE et R².
 Analyse de l'importance des variables.
 
 Optimisation des hyperparamètres pour de meilleures prédictions.
+
+Liens
+
+Notebook Jupyter : Lien vers le fichier
+
+Dépôt GitHub : Lien vers le repo
+
+Contact
+
+Si vous avez des questions ou des suggestions, n'hésitez pas à me contacter via LinkedIn ou par email.
+
